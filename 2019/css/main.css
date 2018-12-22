@@ -432,7 +432,8 @@ td {
 }
 
 th {
-  color: #151515;
+/*  color: #151515;*/
+  color: #FFFFFF;
   font-family: "montserrat-bold", sans-serif;
 }
 
