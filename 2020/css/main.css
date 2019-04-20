@@ -1519,6 +1519,7 @@ header .header-logo a {
   background-attachment: fixed;
   min-height: 804px;
   position: relative;
+  color: rgba(255, 255, 255, 0.05);
 }
 #home .overlay {
   position: absolute;
