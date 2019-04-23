@@ -2455,7 +2455,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   -webkit-tap-highlight-color: transparent;
 }
 #clients .owl-carousel .owl-nav [class*='owl-'] {
-  color: #FFFFFF;
+  color: #8000000;
   font-family: "montserrat-regular", sans-serif;
   font-size: 1.4rem;
   height: 3rem;
