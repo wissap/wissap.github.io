@@ -2037,7 +2037,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 }
 #portfolio .bricks-wrapper .brick {
   float: left;
-  width: 25%;
+  width: 50%;
   padding: 0;
   margin: 0;
 }
@@ -2995,6 +2995,3 @@ footer h4.h05::after {
     display: none;
   }
 }
-
-
-
