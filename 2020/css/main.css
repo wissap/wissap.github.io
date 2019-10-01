@@ -2995,3 +2995,17 @@ footer h4.h05::after {
     display: none;
   }
 }
+
+/* ===================================================================
+ *  Sponser - to display images
+ *
+ * ------------------------------------------------------------------- */
+
+ .sponserimgrow {
+  display: flex;
+}
+
+.sponserimgcolumn {
+  flex: 33.33%;
+  padding: 5px;
+}
