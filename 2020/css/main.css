@@ -3009,3 +3009,38 @@ footer h4.h05::after {
   flex: 33.33%;
   padding: 5px;
 }
+
+/* ===================================================================
+ * update - (_layout.scss)
+ *
+ * ------------------------------------------------------------------- */
+#update {
+  position: relative;
+  padding: 4.2rem 0 12rem;
+  background-color: #FFFFFF;
+  min-height: 696px;
+  text-align: center;
+}
+#update .update-wrap {
+  max-width: 850px;
+}
+#update span {
+  color: #07617d;
+}
+#update h3 {
+  font-family: "montserrat-bold", sans-serif;
+  font-size: 1.8rem;
+  line-height: 1.667;
+  color: #07617d;
+  text-transform: uppercase;
+  letter-spacing: .3rem;
+  position: relative;
+}
+
+#update .lead {
+  font-family: "librebaskerville-bold", serif;
+  font-size: 4rem;
+  line-height: 1.8;
+  color: #2e383f;
+  margin-top: 6rem;
+}
